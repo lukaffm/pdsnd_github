@@ -9,10 +9,10 @@ Analysing the bikeshare data in three big cities New York, Chicago and Washingto
 Displays various statistics on the most frequent times of travel, stations used, timeframes and other details.
 
 ### Files used
-Python
-Numpy
-Pandas
-Project CSV Files
+#Python
+#Numpy
+#Pandas
+#Project CSV Files
 
 ### Credits
 https://wiki.python.org/moin/WhileLoop
